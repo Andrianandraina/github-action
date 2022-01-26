@@ -1,6 +1,7 @@
 name: Python Linter & Tests
 
-on: [push, pull]
+on:
+  push:
 
 jobs:
   build:
